@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/spry_frog_8739), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-25 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-24 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-24 |
 
